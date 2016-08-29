@@ -1,1 +1,4 @@
+<IfModule mod_rewrite.c>
 redirectMatch 301 ^(.*)$ http://baloncestounelco.com
+</IfModule>
+
